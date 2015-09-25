@@ -1,0 +1,6 @@
+limitPerRequest = 10
+username = reeracoen
+password = satoshiyoshida
+rootPath =
+csvFolder = storage
+logMode = 1
